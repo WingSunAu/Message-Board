@@ -1,0 +1,26 @@
+<html>
+
+<body>
+    <h1>
+        <%= title %>
+    </h1>
+    <button><a href="/new">New Post</a></button>
+    <ul>
+        <% messages.map((message)=> { %>
+            <li>
+                <h3>
+                    <%= message.user %>
+                </h3>
+                <p>
+                    <%= message.text %>
+                </p>
+                <p>
+                    <%= message.added %>
+                </p>
+                <button><a href="/posts/<%= message.user %>/<%= message.id %>">Open</a></button>
+            </li>
+            <% }) %>
+    </ul>
+</body>
+
+</html>
