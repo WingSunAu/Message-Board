@@ -1,6 +1,6 @@
-# Message-Board
+# Message-Board <img src="https://img.shields.io/badge/build-passing-green"> <img src="https://img.shields.io/badge/status-offline-red">
 
-## Description
+Online user chat board
 
 ## Usage
 
