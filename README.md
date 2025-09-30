@@ -8,6 +8,10 @@ Online user chat board
 * View posts by user
 * View all posts
 
+## Requirements
+* using npm:
+* express, ejs, 
+
 ## Support
 Offline: Create issue if you are having issues running Message-Board on your own system. <br>
 Online: Online support is deprecated, move to using OnePage.
