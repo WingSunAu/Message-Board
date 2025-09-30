@@ -7,6 +7,7 @@ Online user chat board
 * Delete and update posts with admin access
 * View posts by user
 * View all posts
+* Single post view
 
 ## Requirements
 * using npm:
