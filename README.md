@@ -17,4 +17,4 @@ Offline: Create issue if you are having issues running Message-Board on your own
 Online: Online support is deprecated, move to using OnePage.
 
 ## Roadmap
-Functionality expanded upon in OnePage
+Functionality expanded upon in Members-Chat
